@@ -2,8 +2,10 @@
   "name": "automadeasy",
   "version": "v2.3.0",
   "private": true,
-  "homepage": "https://automadeasy.com/",
+  "homepage": "https://automadeasy.vercel.app/",
   "dependencies": {
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
     "@mui/icons-material": "^5.10.9",
     "@mui/lab": "^5.0.0-alpha.114",
     "@mui/material": "^5.11.2",

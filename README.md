@@ -19,7 +19,7 @@ Teaching and Learning concepts of Theory of Automata are now made easy and inter
 
 ## Try it Out
 
-You can use the app [here](https://www.automadeasy.com).
+You can use the app [here](https://automadeasy.vercel.app/).
 
 ## Project Details
 [![wakatime](https://wakatime.com/badge/github/anserwaseem/automadeasy.svg)](https://github.com/anserwaseem/automadeasy)
